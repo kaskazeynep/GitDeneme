@@ -3,3 +3,7 @@ Console.WriteLine("Githuba Hoşgeldinizz !");
 Console.WriteLine("Githuba Hoşgeldinizz !");
 Console.WriteLine("Githuba Hoşgeldinizz !");
 Console.WriteLine("Githuba Hoşgeldinizz !");
+Console.WriteLine("Githuba Hoşgeldinizz !");
+Console.WriteLine("Githuba Hoşgeldinizz !");
+Console.WriteLine("Githuba Hoşgeldinizz !");
+Console.WriteLine("Githuba Hoşgeldinizz !");
